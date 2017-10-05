@@ -1,0 +1,87 @@
+* {
+	font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.headers {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	font: font-family: 'Georgia', Times, Times New Roman, serif;
+	height: 40px;
+	position: relative;
+	top: 0;
+}
+
+.logos {
+	background: #4aaaa5;
+	color: #c8e2c9;
+	width: 160px;
+	position: absolute;
+	left: 130px;
+	text-align: center;
+	height: 100%;
+}
+
+.portlogos {
+	background: #4aaaa5;
+	color: #c8e2c9;
+}
+
+.footnote {
+	color: #777777;
+	background-color: #666666;
+
+}
+
+.mainContent {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	width: 650px;
+}
+
+.mainDiv {
+	background-color: #ffffff;
+	border-color: #dddddd;
+	position: relative;
+
+}
+
+.sideBar {
+	width: 270px;
+	color: #4aaaa5;
+	position: absolute;
+	right: 160px;
+}
+
+.liner {
+
+}
+
+.headerRightBar {
+	position: absolute;
+	right: 160px;
+
+
+}
+
+p {
+	color: #777777;
+}
+
+body {
+	width: 960px;
+	background-image: url("../images/halftone.png");
+}
+
+h1 {
+	color: #4aaaa5;
+}
+
+aside {
+	float: right;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+nav {
+	float: right;
+}
