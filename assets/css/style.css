@@ -241,7 +241,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-img:hover {
+img.imagesPortfolio:hover {
 	outline: 5px solid gray;
 	outline-offset: 10px;
 }
